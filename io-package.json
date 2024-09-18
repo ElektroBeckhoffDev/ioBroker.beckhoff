@@ -1,7 +1,7 @@
 {
   "common": {
     "name": "beckhoff",
-    "version": "1.6.0",
+    "version": "1.6.0.1",
     "news": {
       "1.6.0": {
         "en": "Adapter requires node.js 18 and js-controller >= 5 now\nDependencies have been updated",
@@ -97,7 +97,7 @@
     },
     "titleLang": {
       "en": "Beckhoff TwinCat ADS",
-      "de": "Beckhoff TwinCat ADS",
+      "de": "Beckhoff TwinCat ADS EB",
       "ru": "Объявления компании Beckhoff TwinCAT с ",
       "pt": "Beckhoff TwinCat ANÚNCIOS",
       "nl": "Beckhoff TwinCat ADVERTENTIES",
